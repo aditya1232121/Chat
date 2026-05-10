@@ -49,7 +49,7 @@ export const sampleNotifications = [
 export const sampleMessage = [
   {
     attachments: [],
-    content: "L*uda ka Message hai",
+    content: " ka Message hai",
     _id: "sfnsdjkfsdnfkjsbnd",
     sender: {
       _id: "user._id",
